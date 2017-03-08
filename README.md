@@ -15,5 +15,5 @@ pip install -r requirements.txt
 
 ## TODO:
 
-Design the web banner and other frontend stuff
-talk proposals app
+* Design the web banner and other frontend stuff
+* talk proposals app
