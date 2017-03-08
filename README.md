@@ -1,6 +1,6 @@
 # pyconzim2017 Conference Website
 
-# Installation:
+## Installation:
 ```bash
 mkvirtualenv pyconzim
 ```
@@ -13,3 +13,7 @@ workon pyconzim
 pip install -r requirements.txt
 ```
 
+## TODO:
+
+Design the web banner and other frontend stuff
+talk proposals app
